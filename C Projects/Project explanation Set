@@ -1,0 +1,19 @@
+Headers and Definitions:
+The program uses standard C libraries: stdio.h, stdlib.h, and string.h. It also uses an Abstract Data Type (ADT) library defined in the file set.h.
+Helper Functions:
+get_set: Takes user input and creates a sorted array from it.
+print_set: Prints the sorted array.
+inside_the_array: Checks if a given number exists in the array.
+Main Function - main:
+Receives input from the user and creates a sorted array from it.
+Prints the sorted array.
+Asks if the user wants to continue entering numbers.
+Repeats the above steps as long as the user enters 'y'.
+Function get_set:
+Takes user input and creates a sorted array from it.
+The array is sorted as the user inputs numbers.
+Function print_set:
+Prints the sorted array in a clean format.
+Function inside_the_array:
+Checks if a given number exists in the array.
+Ultimately, the program allows the user to input numbers and receive a sorted array of the entered numbers.

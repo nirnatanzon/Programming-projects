@@ -1,0 +1,8 @@
+
+The program implements three string manipulation functions: `my_strcmp`, `my_strncmp`, and `my_strchr`. 
+
+1. `my_strcmp` compares two strings lexicographically.
+2. `my_strncmp` compares the first `n` characters of two strings.
+3. `my_strchr` searches for a character in a string.
+
+In the main function, the user can select which function to use and input necessary data for each function. The program repeats until the user chooses to exit.
